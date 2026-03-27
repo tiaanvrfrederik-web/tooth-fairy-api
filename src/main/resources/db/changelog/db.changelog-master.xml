@@ -11,4 +11,5 @@
     <include file="db/changelog/changes/004-add-user-profile-columns.xml"/>
     <include file="db/changelog/changes/005-create-accounts-table.xml"/>
     <include file="db/changelog/changes/006-add-user-account-fk.xml"/>
+    <include file="db/changelog/changes/007-create-brush-routines-table.xml"/>
 </databaseChangeLog>
