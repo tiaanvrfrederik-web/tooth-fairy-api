@@ -1,0 +1,6 @@
+package com.example.tooth_fairy.account;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface AccountRepository extends JpaRepository<Account, Long> {
+}
